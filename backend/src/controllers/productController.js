@@ -89,3 +89,5 @@ const deleteProduct = async (req, res) => {
 };
 
 export { getProducts, getProductById, createProduct, updateProduct, deleteProduct };
+
+// rename filename
